@@ -4,11 +4,10 @@ We are pleased that you would like to contribute to SSEE Metrics. We welcome bot
 ## Reporting issues
 Please make sure to include any potentially useful information in the issue, so we can pinpoint the issue faster without going back and forth.
 
-- What SHA of Risk atlas nexus are you running? If this is not the latest SHA on the main branch, please try if the problem persists with the latest version.
 - Python versions
 
 ## Contributing a change
-Contributions to this project are [released][released] to the public under the project's [opensource license](https://github.com/IBM/ssee-metrics/blob/main/LICENSE).
+Contributions to this project are released to the public under the project's [opensource license](https://github.com/IBM/ssee-metrics/blob/main/LICENSE).
 
 Contributors must _sign off_ that they adhere to these requirements by adding a `Signed-off-by` line to all commit messages with an email address that matches the commit author:
 
